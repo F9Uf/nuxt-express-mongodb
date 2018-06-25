@@ -19,4 +19,7 @@ $ yarn start
 $ yarn run generate
 ```
 
+## Reference
+[nuxt-express (github)](https://github.com/mluberry/nuxt-express/blob/master/server/routes/apiRoutes.js)
+
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
